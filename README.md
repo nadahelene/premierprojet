@@ -1,6 +1,6 @@
 # Description 
 -----------
-Ceci est une page web pour le cours sur git 
+Ceci est une page web pour le cours sur Devops 
 ## Sommaire 
 * Introduction à Git 
 * Introduction à Github 
